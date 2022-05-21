@@ -1,0 +1,13 @@
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\bin\Release\netcoreapp3.1\Exsersise8.exe
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\bin\Release\netcoreapp3.1\Exsersise8.deps.json
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\bin\Release\netcoreapp3.1\Exsersise8.runtimeconfig.json
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\bin\Release\netcoreapp3.1\Exsersise8.runtimeconfig.dev.json
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\bin\Release\netcoreapp3.1\Exsersise8.dll
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\bin\Release\netcoreapp3.1\Exsersise8.pdb
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.AssemblyInfo.cs
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.dll
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.pdb
+C:\Users\krist\source\repos\Exsersise8\Exsersise8\obj\Release\netcoreapp3.1\Exsersise8.genruntimeconfig.cache
