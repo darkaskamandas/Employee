@@ -1,0 +1,5 @@
+C:\Users\krist\Desktop\New folder (2)\Exsersise8.exe
+C:\Users\krist\Desktop\New folder (2)\Exsersise8.dll
+C:\Users\krist\Desktop\New folder (2)\Exsersise8.deps.json
+C:\Users\krist\Desktop\New folder (2)\Exsersise8.runtimeconfig.json
+C:\Users\krist\Desktop\New folder (2)\Exsersise8.pdb
